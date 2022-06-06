@@ -1,2 +1,3 @@
-# JavaScript_Project
-Make PaintJS &amp; Calculator with JavaScript
+# JavaScript_Make_PaintBoard!
+Make PaintBoard with JS
+
